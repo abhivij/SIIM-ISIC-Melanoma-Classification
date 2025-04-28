@@ -19,7 +19,7 @@ Identify melanoma in images of skin lesion
 
 -------------------------------------------------------------------------------------------------------
 
-📈 **Best Score**
+📈 **Best Score (AUC)**
 - Private score : 0.9075 (calculated with approx 70% of test data)
 - Public score : 0.9227  (calculated with approx 30% of test data)
 - Validation split score : 0.918999 (validation data obtained using 80-20 split of train data ensuring equal proportion of target column values and non-overalapping sets of patient-ids)
