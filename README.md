@@ -3,6 +3,8 @@ Identify melanoma in images of skin lesion
 
 ![header](https://github.com/user-attachments/assets/9489d139-d990-4f93-aa77-ae21fbdd7bd6)
 
+<p align="right"><sub><i>Image source: <a href="https://www.kaggle.com/competitions/siim-isic-melanoma-classification">SIIM-ISIC Melanoma Classification Competition</a></i></sub></p>
+
 -------------------------------------------------------------------------------------------------------
 
 **📝 Task** : Classify image and associated patient information into malignant or benign. i.e. predict the probablity that the image is malignant.
