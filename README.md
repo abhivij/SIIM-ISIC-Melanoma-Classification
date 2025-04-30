@@ -18,6 +18,8 @@ Identify melanoma in images of skin lesion
 - Multimodal neural network that combines EfficientNetV2 image features and patient tabular data, trained in two stages with progressive unfreezing.
   
   [Full model architecture](model_architecture.svg)
+
+  [Full model architecture PNG](model_architecture.png)
 -------------------------------------------------------------------------------------------------------
 
 📈 **Best Score (AUC)**
