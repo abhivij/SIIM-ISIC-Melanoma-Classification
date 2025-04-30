@@ -17,15 +17,13 @@ Identify melanoma in images of skin lesion
 🧠 **Model Overview**
 - Multimodal neural network that combines EfficientNetV2 image features and patient tabular data, trained in two stages with progressive unfreezing.
   
-  [Full model architecture](model_architecture.svg)
-
-  [Full model architecture PNG](model_architecture.png)
+  [Full model architecture](model_architecture.png)
 -------------------------------------------------------------------------------------------------------
 
 📈 **Best Score (AUC)**
 - Private score : 0.9075 (calculated with approx 70% of test data)
 - Public score : 0.9227  (calculated with approx 30% of test data)
-- Validation split score : 0.918999 (validation data obtained using 80-20 split of train data ensuring equal proportion of target column values and non-overalapping sets of patient-ids)
+- Validation split score : 0.9164 (validation data obtained using 80-20 split of train data ensuring equal proportion of target column values and non-overalapping sets of patient-ids)
 
 -------------------------------------------------------------------------------------------------------
 
