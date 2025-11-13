@@ -19,7 +19,7 @@
 
 -------------------------------------------------------------------------------------------------------
 
-🔧 **Implementation** : Built in Python mainly using TensorFlow, Keras, Pandas
+🔨 **Implementation** : Built in Python mainly using TensorFlow, Keras, Pandas
 
 -------------------------------------------------------------------------------------------------------
 
