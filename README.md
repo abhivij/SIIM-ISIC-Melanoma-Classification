@@ -16,6 +16,11 @@
 - Multimodal neural network that combines EfficientNetV2 image features and patient tabular data, trained in two stages with progressive unfreezing.
   
   [Full model architecture](model_architecture.png)
+
+-------------------------------------------------------------------------------------------------------
+
+🔧 **Implementation** : Built in Python mainly using TensorFlow, Keras, Pandas
+
 -------------------------------------------------------------------------------------------------------
 
 📈 **Best Score (AUC)**
